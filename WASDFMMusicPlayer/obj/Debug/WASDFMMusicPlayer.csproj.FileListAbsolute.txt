@@ -1,0 +1,10 @@
+C:\Users\lukee\Desktop\CSharp Projects\WASDMusicPlayer\WASDFMMusicPlayer\WASDFMMusicPlayer\bin\Debug\WASDFMMusicPlayer.exe.config
+C:\Users\lukee\Desktop\CSharp Projects\WASDMusicPlayer\WASDFMMusicPlayer\WASDFMMusicPlayer\bin\Debug\WASDFMMusicPlayer.exe
+C:\Users\lukee\Desktop\CSharp Projects\WASDMusicPlayer\WASDFMMusicPlayer\WASDFMMusicPlayer\bin\Debug\WASDFMMusicPlayer.pdb
+C:\Users\lukee\Desktop\CSharp Projects\WASDMusicPlayer\WASDFMMusicPlayer\WASDFMMusicPlayer\obj\Debug\WASDFMMusicPlayer.csprojAssemblyReference.cache
+C:\Users\lukee\Desktop\CSharp Projects\WASDMusicPlayer\WASDFMMusicPlayer\WASDFMMusicPlayer\obj\Debug\WASDFMMusicPlayer.Form1.resources
+C:\Users\lukee\Desktop\CSharp Projects\WASDMusicPlayer\WASDFMMusicPlayer\WASDFMMusicPlayer\obj\Debug\WASDFMMusicPlayer.Properties.Resources.resources
+C:\Users\lukee\Desktop\CSharp Projects\WASDMusicPlayer\WASDFMMusicPlayer\WASDFMMusicPlayer\obj\Debug\WASDFMMusicPlayer.csproj.GenerateResource.cache
+C:\Users\lukee\Desktop\CSharp Projects\WASDMusicPlayer\WASDFMMusicPlayer\WASDFMMusicPlayer\obj\Debug\WASDFMMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\lukee\Desktop\CSharp Projects\WASDMusicPlayer\WASDFMMusicPlayer\WASDFMMusicPlayer\obj\Debug\WASDFMMusicPlayer.exe
+C:\Users\lukee\Desktop\CSharp Projects\WASDMusicPlayer\WASDFMMusicPlayer\WASDFMMusicPlayer\obj\Debug\WASDFMMusicPlayer.pdb
